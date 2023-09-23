@@ -1,0 +1,18 @@
+﻿  test3.cpp
+D:\document\untiyProject\opengl_test\opengl_test\src\test3.cpp(6,10): warning C4067: 预处理器指令后有意外标记 - 应输入换行符
+D:\document\untiyProject\opengl_test\opengl_test\include\BVH.h(272,29): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+D:\document\untiyProject\opengl_test\opengl_test\include\BVH.h(281,30): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+D:\document\untiyProject\opengl_test\opengl_test\include\model.h(69,27): warning C4018: “<”: 有符号/无符号不匹配
+D:\document\untiyProject\opengl_test\opengl_test\include\Scene.h(3,10): warning C4067: 预处理器指令后有意外标记 - 应输入换行符
+D:\document\untiyProject\opengl_test\opengl_test\include\Scene.h(4,10): warning C4067: 预处理器指令后有意外标记 - 应输入换行符
+D:\document\untiyProject\opengl_test\opengl_test\include\Scene.h(5,10): warning C4067: 预处理器指令后有意外标记 - 应输入换行符
+D:\document\untiyProject\opengl_test\opengl_test\include\Scene.h(27,21): warning C4018: “<”: 有符号/无符号不匹配
+D:\document\untiyProject\opengl_test\opengl_test\include\Scene.h(29,22): warning C4018: “<”: 有符号/无符号不匹配
+D:\document\untiyProject\opengl_test\opengl_test\include\Scene.h(55,21): warning C4018: “<”: 有符号/无符号不匹配
+D:\document\untiyProject\opengl_test\opengl_test\include\Scene.h(66,27): warning C4018: “<”: 有符号/无符号不匹配
+D:\document\untiyProject\opengl_test\opengl_test\include\Scene.h(81,27): warning C4018: “<”: 有符号/无符号不匹配
+D:\document\untiyProject\opengl_test\opengl_test\include\Scene.h(91,27): warning C4018: “<”: 有符号/无符号不匹配
+D:\document\untiyProject\opengl_test\opengl_test\include\Scene.h(123,27): warning C4018: “<”: 有符号/无符号不匹配
+D:\document\untiyProject\opengl_test\opengl_test\include\Scene.h(63,22): warning C4101: “tbo”: 未引用的局部变量
+D:\document\untiyProject\opengl_test\opengl_test\src\test3.cpp(159,42): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+  opengl_test.vcxproj -> D:\document\untiyProject\opengl_test\Debug\opengl_test.exe

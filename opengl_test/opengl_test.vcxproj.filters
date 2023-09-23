@@ -1,0 +1,137 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="源文件">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;c++;cppm;ixx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="头文件">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hh;hpp;hxx;h++;hm;inl;inc;ipp;xsd</Extensions>
+    </Filter>
+    <Filter Include="资源文件">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="src\glad.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="src\PBRTest.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="src\test.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="src\test1.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="src\test2.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="src\test3.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="src\test4.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="src\test5.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="include\BVH.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="include\camera.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="include\Material.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="include\Mesh.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="include\Model.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="include\resource.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="include\Scene.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="include\shader.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="include\stb_image.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="include\Triangle.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="include\Utils.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\shaders\background.frag">
+      <Filter>资源文件</Filter>
+    </None>
+    <None Include="Resources\shaders\background.vert">
+      <Filter>资源文件</Filter>
+    </None>
+    <None Include="Resources\shaders\cubemap.frag">
+      <Filter>资源文件</Filter>
+    </None>
+    <None Include="Resources\shaders\cubemap.vert">
+      <Filter>资源文件</Filter>
+    </None>
+    <None Include="Resources\shaders\equirectangular_to_cubemap.frag">
+      <Filter>资源文件</Filter>
+    </None>
+    <None Include="Resources\shaders\fboTestShader.frag">
+      <Filter>资源文件</Filter>
+    </None>
+    <None Include="Resources\shaders\fboTestShader.vert">
+      <Filter>资源文件</Filter>
+    </None>
+    <None Include="Resources\shaders\hdrToSkyobox.frag">
+      <Filter>资源文件</Filter>
+    </None>
+    <None Include="Resources\shaders\hdrToSkyobox.vert">
+      <Filter>资源文件</Filter>
+    </None>
+    <None Include="Resources\shaders\irradiance_convolution.frag">
+      <Filter>资源文件</Filter>
+    </None>
+    <None Include="Resources\shaders\passToScreen.frag">
+      <Filter>资源文件</Filter>
+    </None>
+    <None Include="Resources\shaders\passToScreen.vert">
+      <Filter>资源文件</Filter>
+    </None>
+    <None Include="Resources\shaders\pbr.frag">
+      <Filter>资源文件</Filter>
+    </None>
+    <None Include="Resources\shaders\pbr.vert">
+      <Filter>资源文件</Filter>
+    </None>
+    <None Include="Resources\shaders\RT.frag">
+      <Filter>资源文件</Filter>
+    </None>
+    <None Include="Resources\shaders\RT.vert">
+      <Filter>资源文件</Filter>
+    </None>
+    <None Include="Resources\shaders\shader.frag">
+      <Filter>资源文件</Filter>
+    </None>
+    <None Include="Resources\shaders\shader.fs">
+      <Filter>资源文件</Filter>
+    </None>
+    <None Include="Resources\shaders\shader.vs">
+      <Filter>资源文件</Filter>
+    </None>
+  </ItemGroup>
+</Project>
